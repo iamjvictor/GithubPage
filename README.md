@@ -1,6 +1,6 @@
 # João Victor do Couto de Asevêdo
 
-Atualmente sou estudante de Ciência da computação na Universidada Estadual do Norte Fluminense (UENF), bolsista de Iniciação cientifica na área de Desenvolvimento mobile.
+Atualmente sou estudante de Ciência da computação na Universidada Estadual do Norte Fluminense (UENF), bolsista de Iniciação cientifica na área de Desenvolvimento de aplicações para dispositivos móveis.
 <br>
 <br>
 <div style="display: inline_block">
